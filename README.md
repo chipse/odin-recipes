@@ -1,0 +1,1 @@
+This is a project to practice HTML and Git skills in The Odin Project Foundation Recipes assignment.
