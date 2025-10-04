@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Arial, "Times New Roman";
+}
+
+h1 {
+    background-color: honeydew;
+    color: darkseagreen;
+    padding-left: 10px;
+}
+
+ul {
+    background-color: floralwhite;
+    list-style: none;
+}
+
+ul > li:first-of-type {
+    margin-top: 0;
+}
+
+li {
+    padding: 8px;
+    margin: 10px;
+}
+
+a {
+    color: black;
+}
